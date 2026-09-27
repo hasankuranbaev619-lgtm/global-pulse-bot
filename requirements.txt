@@ -1,0 +1,5 @@
+aiogram
+aiosqlite
+feedparser
+apscheduler
+python-dotenv
